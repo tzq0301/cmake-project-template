@@ -1,0 +1,10 @@
+bin/
+build/
+
+.vscode/
+.idea/
+.fleet/
+.cache/
+cmake-build-debug/
+
+.DS_Store
